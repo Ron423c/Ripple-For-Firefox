@@ -31,7 +31,7 @@ Then see the [documentation](https://github.com/ripple/ripple-lib/blob/develop/d
 ## Running tests
 
 1. Clone the repository
-2. `cd` into the repository and install dependencies with `yarn install`
+2. `cd` into the repository and install dependencies with `yarn add`
 3. `yarn test` or `yarn test --coverage` (`istanbul` will create coverage reports in `coverage/lcov-report/`)
 
 ## Generating Documentation
